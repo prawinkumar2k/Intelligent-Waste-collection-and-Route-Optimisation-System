@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Waste Collection and Route Optimisation System",
+  "description": "Smart-city municipal solid waste management and dynamic route optimisation platform with real-time IoT monitoring and graph search algorithm laboratory for Perundurai, Erode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
